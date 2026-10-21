@@ -1,15 +1,20 @@
-# Website-Projekt – Git-Übungen
+# Website-Projekt
 
-Dieses Repository ist die Ausgangsbasis für eine durchgängige Git-Übung mit HTML, CSS und JavaScript.
+Eine einfache HTML-Website für Git-Übungen.
 
-## Übung starten
+## Features
 
-Öffnen Sie das Skript **[git-uebung.md](git-uebung.md)** und arbeiten Sie alle verpflichtenden Teile in der vorgegebenen Reihenfolge ab.
+- HTML-Grundstruktur
+- CSS-Styling mit modernem Design
+- JavaScript-Funktionalität für dynamischen Content
+- responsives Container-Layout
 
-## Geplante Funktionen
+## Verwendung
 
-- HTML-Grundstruktur vorhanden
-- CSS-Styling geplant
-- JavaScript-Funktionalität geplant
+Öffnen Sie `index.html` in einem Webbrowser.
 
-> **Wichtig:** Ändern Sie die Ausgangsdateien erst, wenn das Skript Sie dazu auffordert.
+## Git-Übungen
+
+- Branch-Management
+- Lösen von Merge-Konflikten
+- Reset-Operationen
